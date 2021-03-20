@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "871029986210",
+    "project_id": "vardrobe-b0dae",
+    "storage_bucket": "vardrobe-b0dae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871029986210:android:a5ebd871275bad239a58fb",
+        "android_client_info": {
+          "package_name": "com.alit.vardrobe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "871029986210-rn7iqt14js76ut69dr6a4agon4bkr0n1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alit.vardrobe",
+            "certificate_hash": "e14763cb34314d58cfe31465a467c4d021b3064a"
+          }
+        },
+        {
+          "client_id": "871029986210-4rtoee344v0po4m4s5igjicl3ldqu1ah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDX8sDwTDh_PNcXcGkUzN3rjzW3rlL1HrM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "871029986210-4rtoee344v0po4m4s5igjicl3ldqu1ah.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
